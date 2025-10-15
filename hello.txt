@@ -1,0 +1,2 @@
+This is my first GitHub practice file.
+I’m learning how to create repositories and commit changes.
